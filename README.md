@@ -1,2 +1,2 @@
 # BigData1
-contenedores
+contenedor python para la practica contenedores de BigData1 UGR
